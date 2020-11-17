@@ -6,6 +6,8 @@
 > 하지만 원치 않는 사람, 차와 같은 피사체가 함께 담긴 사진이 갤러리 속 하나는 존재할 것입니다.  
 > 이를 위한, AI 이미지 편집 모바일 서비스입니다.  
 
+## UCC
+[![YOUTUBE](images/youtube_image.png)](https://youtu.be/tROn0HdZoC8)
 
 ## Setup
 ``` sh
