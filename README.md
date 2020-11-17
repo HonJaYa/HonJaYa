@@ -40,5 +40,13 @@ python test.py --checkpoints ./checkpoints/places2 --input ./examples/places2/im
 ## Contribute
 [Contribute Guide](./CONTRIBUTING.md)
 
+## Contributors
+| Name   | GitHub                                         | Role        |
+| ------ | ---------------------------------------------- | ----------- |
+| 김현욱   | [tristan3716](https://github.com/tristan3716)  | AI          |
+| 이진영   | [leejinzero](https://github.com/leejinzero)    | AI          |
+| 김형준   | [hyungjun268](https://github.com/hyungjun268)  | Application |
+| 유현진   | [guswls](https://github.com/guswls)            | Server      |
+
 ## License
 [MIT License](./LICENSE)
