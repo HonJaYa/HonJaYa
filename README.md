@@ -7,7 +7,7 @@
 > 이를 위한, AI 이미지 편집 모바일 서비스입니다.  
 
 ## UCC
-[![YOUTUBE](images/youtube_image.png)](https://youtu.be/tROn0HdZoC8)
+[![YOUTUBE](docs/youtube_image.png)](https://youtu.be/tROn0HdZoC8)
 
 ## Setup
 ``` sh
